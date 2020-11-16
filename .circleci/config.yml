@@ -43,4 +43,4 @@ workflows:
       - one
       - two:
           requires:
-            - onej
+            - one
